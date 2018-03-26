@@ -690,31 +690,31 @@ div[class^="ele-leg-"]:before {
 
 @-webkit-keyframes ele-movement {
     0% {
-        -webkit-transform: translate3D(-50%, -54%, 0);
-        transform: translate3D(-50%, -54%, 0);
+        -webkit-transform: translate3D(-75%, -54%, 0);
+        transform: translate3D(-75%, -54%, 0);
     }
     50% {
-        -webkit-transform: translate3D(-50%, -57%, 0);
-        transform: translate3D(-50%, -57%, 0);
+        -webkit-transform: translate3D(-75%, -57%, 0);
+        transform: translate3D(-75%, -57%, 0);
     }
     100% {
-        -webkit-transform: translate3D(-50%, -54%, 0);
-        transform: translate3D(-50%, -54%, 0);
+        -webkit-transform: translate3D(-75%, -54%, 0);
+        transform: translate3D(-75%, -54%, 0);
     }
 }
 
 @keyframes ele-movement {
     0% {
-        -webkit-transform: translate3D(-50%, -54%, 0);
-        transform: translate3D(-50%, -54%, 0);
+        -webkit-transform: translate3D(-75%, -54%, 0);
+        transform: translate3D(-75%, -54%, 0);
     }
     50% {
-        -webkit-transform: translate3D(-50%, -57%, 0);
-        transform: translate3D(-50%, -57%, 0);
+        -webkit-transform: translate3D(-75%, -57%, 0);
+        transform: translate3D(-75%, -57%, 0);
     }
     100% {
-        -webkit-transform: translate3D(-50%, -54%, 0);
-        transform: translate3D(-50%, -54%, 0);
+        -webkit-transform: translate3D(-75%, -54%, 0);
+        transform: translate3D(-75%, -54%, 0);
     }
 }
 
